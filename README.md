@@ -1,6 +1,10 @@
 # prayer_app
 
-A new Flutter project.
+It is a Islamic prayer time application developed in flutter
+
+## Design Overview
+<img src="https://raw.githubusercontent.com/ZaidKhan15/IslamicPrayer_app
+/Design.jpg" alt="Design 1" style="max-width: 100%;" width="300px" height="500px">
 
 ## Getting Started
 
